@@ -1,0 +1,8 @@
+E:\Shilpa\19-03-2020\EntityFramework\Level3\Level3.BusinessLayer\bin\Debug\netstandard2.0\Level3.BusinessLayer.deps.json
+E:\Shilpa\19-03-2020\EntityFramework\Level3\Level3.BusinessLayer\bin\Debug\netstandard2.0\Level3.BusinessLayer.dll
+E:\Shilpa\19-03-2020\EntityFramework\Level3\Level3.BusinessLayer\bin\Debug\netstandard2.0\Level3.BusinessLayer.pdb
+E:\Shilpa\19-03-2020\EntityFramework\Level3\Level3.BusinessLayer\obj\Debug\netstandard2.0\Level3.BusinessLayer.csprojAssemblyReference.cache
+E:\Shilpa\19-03-2020\EntityFramework\Level3\Level3.BusinessLayer\obj\Debug\netstandard2.0\Level3.BusinessLayer.AssemblyInfoInputs.cache
+E:\Shilpa\19-03-2020\EntityFramework\Level3\Level3.BusinessLayer\obj\Debug\netstandard2.0\Level3.BusinessLayer.AssemblyInfo.cs
+E:\Shilpa\19-03-2020\EntityFramework\Level3\Level3.BusinessLayer\obj\Debug\netstandard2.0\Level3.BusinessLayer.dll
+E:\Shilpa\19-03-2020\EntityFramework\Level3\Level3.BusinessLayer\obj\Debug\netstandard2.0\Level3.BusinessLayer.pdb
